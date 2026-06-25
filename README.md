@@ -4,6 +4,9 @@ A pure hardware-based digital logic IC tester built as part of the Analog and Di
 
 Tests the functional correctness of logic gate ICs by automatically cycling through all input combinations and comparing the output against a manually set reference logic.
 
+## System Architecture
+
+![Block Diagram](block-diagram.png.png)
 ---
 
 ## Supported Gates

@@ -19,7 +19,7 @@ Tests the functional correctness of logic gate ICs by automatically cycling thro
 | XOR  | 7486      |
 | XNOR | 74266     |
 
-> NOT and NOR gates require a small wiring modification — see [docs/modifications.md](docs/modifications.md)
+> NOT and NOR gates require a small wiring modification — 
 
 ---
 ## How It Works
